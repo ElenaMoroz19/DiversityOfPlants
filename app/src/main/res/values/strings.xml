@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Флорист</string>
+    <string name="room">Комнатные растения</string>
+    <string name="garden">Садовые растения</string>
+    <string name="ogorod">Огородные растения</string>
+    <string name="plod">Плодово-ягодные растения</string>
+</resources>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="room">
+        <item>Алое</item>
+        <item>Бегония</item>
+        <item>Бонсай</item>
+        <item>Декабрист</item>
+        <item>Кактус</item>
+    </string-array>
+    <string-array name="room_content">
+        <item>Ntrcnncjwencsc</item>
+        <item>efcjubwjndfcsfdsdfgrewscdfres</item>
+        <item>lkjhgfrxrdftgyhujikol</item>
+        <item>kjhgfcxdsedrftygunim</item>
+        <item>kjhgfcwvbhdjklcv.,lgyresk,lwcdhuijoslwq</item>
+    </string-array>
+<array name="room_image_array">
+    <item>@drawable/aloe</item>
+    <item>@drawable/begonia</item>
+    <item>@drawable/bonsai</item>
+    <item>@drawable/dekabrist</item>
+    <item>@drawable/kaktus</item>
+</array>
+
+
+    <string-array name="garden">
+        <item>Барбарис</item>
+        <item>Бархатцы</item>
+        <item>Гиацинт</item>
+        <item>Лаванда</item>
+    </string-array>
+    <string-array name="garden_content">
+        <item>Ntrcnncjwencsc</item>
+        <item>efcjubwjndfcsfdsdfgrewscdfres</item>
+        <item>lkjhgfrxrdftgyhujikol</item>
+        <item>kjhgfcwvbhdjklcv.,lgyresk,lwcdhuijoslwq</item>
+    </string-array>
+    <array name="garden_image_array">
+        <item>@drawable/barbaris</item>
+        <item>@drawable/barhatsi</item>
+        <item>@drawable/giatsint</item>
+        <item>@drawable/lavanda</item>
+    </array>
+
+    <string-array name="ogorod">
+        <item>Горох</item>
+        <item>Капуста</item>
+        <item>Кукуруза</item>
+        <item>Морковь</item>
+        <item>Подсолнечник</item>
+    </string-array>
+
+    <string-array name="ogorod_content">
+        <item>Ntrcnncjwencsc</item>
+        <item>efcjubwjndfcsfdsdfgrewscdfres</item>
+        <item>lkjhgfrxrdftgyhujikol</item>
+        <item>kjhgfcxdsedrftygunim</item>
+        <item>kjhgfcwvbhdjklcv.,lgyresk,lwcdhuijoslwq</item>
+    </string-array>
+    <array name="ogorod_image_array">
+        <item>@drawable/goroh</item>
+        <item>@drawable/kapusta</item>
+        <item>@drawable/kykyryza</item>
+        <item>@drawable/morcov</item>
+        <item>@drawable/podsolnechnic</item>
+    </array>
+
+    <string-array name="plod">
+        <item>Брусника</item>
+        <item>Виноград</item>
+        <item>Ежевика</item>
+        <item>Калина</item>
+        <item>Клюква</item>
+    </string-array>
+    <string-array name="plod_content">
+        <item>Ntrcnncjwencsc</item>
+        <item>efcjubwjndfcsfdsdfgrewscdfres</item>
+        <item>lkjhgfrxrdftgyhujikol</item>
+        <item>kjhgfcxdsedrftygunim</item>
+        <item>kjhgfcwvbhdjklcv.,lgyresk,lwcdhuijoslwq</item>
+    </string-array>
+    <array name="plod_image_array">
+        <item>@drawable/brusnika</item>
+        <item>@drawable/vinograd</item>
+        <item>@drawable/eshevika</item>
+        <item>@drawable/kalina</item>
+        <item>@drawable/klukva</item>
+    </array>
+</resources>
